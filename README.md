@@ -1,14 +1,14 @@
 # João Cláudio Macosso
 
-**Quantitative Programmer | Econometrics & Quantitative Finance**
+**Quant Programmer | Econometrics & Quantitative Finance**
 
 📍Poland | Angola
 
 ## About Me
 
-I am quantit programmer based in Warsaw, Poland, with a background in **Econometrics and Quantitative Finance**.
+I am quant programmer based in Warsaw, Poland, with a background in **Econometrics and Quantitative Finance**.
 
-I specialize in the development of statistical and financial models, numerical computing, and quantitative research software.
+I specialize in development of statistical and financial models, numerical computing, and quantitative research software.
 
 My professional experience spans credit and market risk modeling, econometric analysis, and the development of analytical software for the financial and public health sectors.
 
